@@ -1,6 +1,6 @@
 # Paytm-clone
 
-By Prince Kr Paswan
+By Prince Kr Paswan. 
 
 ## [Live Link](https://paytm-clonep.netlify.app/)
 
